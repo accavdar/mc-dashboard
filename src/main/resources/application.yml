@@ -1,0 +1,4 @@
+mc:
+  simplify:
+    publicKey: # Your Public Key here
+    privateKey: # Your Private Key here
